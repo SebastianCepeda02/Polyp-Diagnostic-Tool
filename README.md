@@ -40,7 +40,7 @@ PolypDiagnosticTool/
 El modelo .pt no se incluye aquí por su tamaño.
 Puedes descargarlo desde Google Drive:
 
- Descargar modelo (.pt) desde Drive: 
+ Descargar modelo (.pt) desde Drive: https://drive.google.com/file/d/1HPtpV59-f5ZwpYPp-tIfXTWEB6zTWm5C/view?usp=drive_link
 
 Después de descargarlo, colócalo en la raiz de la carpeta del proyecto
 
